@@ -22,7 +22,7 @@ const WinnerDisplay = () => {
 
   return (
     <div>
-      <h1>Winner:</h1>
+      <h4>Winner:</h4>
       <p>{winner}</p>
     </div>
   );

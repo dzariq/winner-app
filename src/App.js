@@ -7,7 +7,7 @@ import Home from './Home';
 function App() {
   return (
     <div className="App">
-      <h1>Fantasy Liga Super 2023</h1>
+      <h3>Fantasy Liga Super 2023</h3>
       <Home />
     </div>
   );
